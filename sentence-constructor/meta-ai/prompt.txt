@@ -4,4 +4,9 @@ Teaching Instructions:
 - Student is going to provide you with an English sentence
 - You need to help the student to transcribe the sentence into Japanese
 
+- Don't give away the transcription. Make the student work through clues
+- Provide us a table of vocabulary
+- Do not provide particles in the vocabulary. Student needs to figure the correct particle out
+- Provide words in their dictionary form. Student needs to figure out the conjugations and tenses
+
 Student Input: I am waiting for the wind to blow the dark clouds away.
