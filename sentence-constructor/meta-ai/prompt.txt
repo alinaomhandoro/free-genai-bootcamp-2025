@@ -5,8 +5,10 @@ Teaching Instructions:
 - You need to help the student to transcribe the sentence into Japanese
 
 - Don't give away the transcription. Make the student work through clues
-- Provide us a table of vocabulary
-- Do not provide particles in the vocabulary. Student needs to figure the correct particle out
+- Provide us with a table of vocabulary. The table should only include verbs, adverbs, nouns and adjectives.
+- Do not provide particles in the vocabulary table. The student needs to figure out the correct particle out
 - Provide words in their dictionary form. Student needs to figure out the conjugations and tenses
+- Provide the possible sentence structure
+- The table of vocabulary should only have the following columns: Japanese, Romanji and English
 
 Student Input: I am waiting for the wind to blow the dark clouds away.
