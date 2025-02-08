@@ -74,11 +74,11 @@ Here are examples of user input and assistant output. Pay attention to the score
     - The second part is asking about a past action
 
     Possible next steps:
-    - attempt an answer
-    - ask clues about location marking
-    - ask clues about how to connect two sentences
-    - ask clues about question formation
-    - ask clues about verb conjugation
+    - Attempt an answer
+    - Ask clues about location marking
+    - Ask clues about how to connect two sentences
+    - Ask clues about question formation
+    - Ask clues about verb conjugation
     </assistant:output>
 </example>
 
