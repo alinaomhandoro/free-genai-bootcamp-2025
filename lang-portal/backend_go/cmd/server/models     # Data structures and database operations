@@ -1,0 +1,12 @@
+To create the contents for the `/backend_go/internal/models` directory, we will define the data structures that correspond to the database schema outlined in the technical specifications. This will include structures for vocabulary words, groups, study sessions, and review items, along with methods for database operations.
+
+Here’s a summary of what I plan to include in the `models` file:
+
+1. **Word Structure**: Represents vocabulary words with fields for Japanese, Romaji, English, and parts.
+2. **Group Structure**: Represents thematic groups of words with an ID and name.
+3. **StudySession Structure**: Represents study sessions with fields for group ID, creation date, and study activity ID.
+4. **StudyActivity Structure**: Represents specific study activities linking study sessions to groups.
+5. **WordReviewItem Structure**: Represents records of word practice, including whether the word was answered correctly.
+6. **Database Operations**: Basic methods for creating, reading, updating, and deleting records for each structure.
+
+Once you confirm this structure, I can proceed to generate the contents of the `models` file.
