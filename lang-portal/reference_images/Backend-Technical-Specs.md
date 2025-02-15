@@ -12,7 +12,7 @@ A language learning school wants to build a prototype of a learning portal which
 - The backend will be built using Go
 - The database will be SQLite3
 - The API will be built using Gin
--Mage is a task runner for Go.
+- Mage is a task runner for Go.
 - The API will always return JSON
 - There will be no authentication or authorization
 - Everything is treated as a single-user
